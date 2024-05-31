@@ -1,0 +1,88 @@
+============
+Transform aggregation for 800 times
+Cost time=5.22955060005188
+===================
+============
+Transform compound for 800 times
+Cost time=3.309523582458496
+===================
+============
+Transform compound for 1200 times
+Cost time=4.265275239944458
+===================
+============
+Transform flame for 1200 times
+Cost time=3.0133163928985596
+===================
+============
+Transform jain for 1200 times
+Cost time=3.717881202697754
+===================
+============
+Transform pathbased for 1200 times
+Cost time=3.027189016342163
+===================
+============
+Transform leaves for 1200 times
+Cost time=20.984429359436035
+===================
+============
+Transform leaves for 1200 times
+Cost time=21.349117517471313
+===================
+============
+Transform wine for 1200 times
+Cost time=1.9396336078643799
+===================
+============
+Transform crop for 1200 times
+Cost time=227.6137683391571
+===================
+============
+Transform leaves for 1200 times
+Cost time=20.378796339035034
+===================
+============
+Transform iris for 1200 times
+Cost time=1.5852797031402588
+===================
+============
+Transform birch for 1200 times
+Cost time=912.5523154735565
+===================
+============
+Transform r15 for 1200 times
+Cost time=6.089258670806885
+===================
+============
+Transform d31 for 1200 times
+Cost time=34.37119746208191
+===================
+============
+Transform d31 for 1200 times
+Cost time=30.959241151809692
+===================
+============
+Transform d31 for 1200 times
+Cost time=30.22603154182434
+===================
+============
+Transform spiral for 1200 times
+Cost time=5.924553394317627
+===================
+============
+Transform mnist for 200 times
+Cost time=4281.273026704788
+===================
+============
+Transform isolet for 200 times
+Cost time=85.71804904937744
+===================
+============
+Transform isolet for 200 times
+Cost time=93.09693622589111
+===================
+============
+Transform r15 for 2000 times
+Cost time=12.7997465133667
+===================
